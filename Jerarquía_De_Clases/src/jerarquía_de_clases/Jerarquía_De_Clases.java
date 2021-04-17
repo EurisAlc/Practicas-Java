@@ -26,7 +26,7 @@ public class Jerarquía_De_Clases {
         Loro animal3 = new Loro ("Misi");
         Serpiente animal4 = new Serpiente ("Framp");
         
-        // ArrayListque contiene datos de la clase Animal
+        // ArrayList que contiene datos de la clase Animal
         ArrayList<Animal> animales = new ArrayList<>();
         
         animales.add(animal1);
