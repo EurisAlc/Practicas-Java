@@ -31,7 +31,7 @@ public class Ejem_Consulta_bd4o {
             
             /**
             // Agregar coches
-            Coche c1 = new Coche("4804CKT", "Reanult", "Azul", 17000, 5, 92);
+            Coche c1 = new Coche("4804CKT", "Renault", "Azul", 17000, 5, 92);
             Coche c2 = new Coche("5862YFT", "Seat", "Blanco", 15500, 5, 75);
             Coche c3 = new Coche("6947XCS", "Nissan", "Negro", 12300, 3, 95);
             bd.store(c1);
