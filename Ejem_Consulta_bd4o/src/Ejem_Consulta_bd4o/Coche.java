@@ -6,7 +6,8 @@ package Ejem_Consulta_bd4o;
  * @author Euris Alc.
  */
 public class Coche {
-
+    
+    // Variables
     private String matricula, marca, color;
     private double precio;
     private int puertas, caballos;
