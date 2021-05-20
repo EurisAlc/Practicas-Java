@@ -12,8 +12,8 @@ import javax.swing.DefaultComboBoxModel;
 import javax.swing.JOptionPane;
 
 /**
- * Formulario de registro de datos
- *
+ * Formulario. Registro de datos
+ * Versión 1.0
  * @author Euris Alc.
  */
 public class Registro_Persona extends javax.swing.JFrame {
@@ -179,7 +179,7 @@ public class Registro_Persona extends javax.swing.JFrame {
        // Obtenemos el modelo de la tabla
         DefaultTableModel modelo = (DefaultTableModel) tbDatos.getModel();
 
-        // Agregar los valores
+        // Almenamos los valores en un array
        Object[] fila = new Object[6];
        
        fila[0] = tNombre.getText();
